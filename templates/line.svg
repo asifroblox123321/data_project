@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+  <!-- X-axis -->
+  <line x1="100" y1="450" x2="900" y2="450" stroke="black" stroke-width="2"/>
+  <!-- Y-axis -->
+  <line x1="100" y1="50" x2="100" y2="450" stroke="black" stroke-width="2"/>
+
+  <!-- X-axis labels (Years) -->
+  <text x="100" y="470" font-size="10" text-anchor="middle">2003</text>
+  <text x="180" y="470" font-size="10" text-anchor="middle">2005</text>
+  <text x="260" y="470" font-size="10" text-anchor="middle">2007</text>
+  <text x="340" y="470" font-size="10" text-anchor="middle">2009</text>
+  <text x="420" y="470" font-size="10" text-anchor="middle">2011</text>
+  <text x="500" y="470" font-size="10" text-anchor="middle">2013</text>
+  <text x="580" y="470" font-size="10" text-anchor="middle">2015</text>
+  <text x="660" y="470" font-size="10" text-anchor="middle">2017</text>
+  <text x="740" y="470" font-size="10" text-anchor="middle">2019</text>
+  <text x="820" y="470" font-size="10" text-anchor="middle">2020</text>
+
+  <!-- Y-axis labels (Percentage) -->
+  <text x="85" y="450" font-size="10" text-anchor="end">0%</text>
+  <text x="85" y="360" font-size="10" text-anchor="end">10%</text>
+  <text x="85" y="270" font-size="10" text-anchor="end">20%</text>
+  <text x="85" y="180" font-size="10" text-anchor="end">30%</text>
+  <text x="85" y="90" font-size="10" text-anchor="end">40%</text>
+
+  <polyline points="{{ManhattanP}}" fill="none" stroke="red"/>
+  <text class="label" x="255" y="90" font-size="5px" fill="red">Manhattan</text>
+
+  <polyline points="{{BronxP}}" fill="none" stroke="green"/>
+  <text class="label" x="255" y="125" font-size="5px" fill="green">Bronx</text>
+
+  <polyline points="{{QueensP}}" fill="none" stroke="purple"/>
+  <text class="label" x="255" y="114" font-size="5px" fill="purple">Queens</text>
+
+  <polyline points="{{BrooklynP}}" fill="none" stroke="red"/>
+  <text class="label" x="255" y="105" font-size="5px" fill="yello">Brooklyn</text>
+
+  <polyline points="{{StatenP}}" fill="none" stroke="green"/>
+  <text class="label" x="255" y="120" font-size="5px" fill="white">Staten Island</text>
+
+
+
+  <!-- Explanation text -->
+  <text x="500" y="30" text-anchor="middle" font-weight="bold">Obesity Trends in NYC Boroughs from 2003 to 2020</text>
+</svg>

@@ -1,0 +1,595 @@
+TimePeriod,GeoType,Geography,Number,Percent That Are Obese
+2020,Area,East New York,"35,000",26.6
+2020,Area,Sunset Park,"24,000",25.5
+2020,Area,Borough Park,"49,000",21.5
+2020,Area,East Flatbush - Flatbush,"63,000",29.2
+2020,Area,Canarsie - Flatlands,"56,000",39.1
+2020,Area,Bensonhurst - Bay Ridge,"36,000",22.3
+2020,Area,Coney Island - Sheepshead Bay,"60,000",26.6
+2020,Area,Williamsburg - Bushwick,"38,000",25.9
+2020,Area,Washington Heights,"58,000",29.5
+2020,Area,Central Harlem - Morningside Heights,"36,000",30
+2020,Area,East Harlem,"24,000",30.1
+2020,Area,Upper West Side,"32,000",17.7
+2020,Area,Long Island City - Astoria,"31,000",19.2
+2020,Area,West Queens,"98,000",27
+2020,Area,Flushing - Clearview,"30,000",15.1
+2020,Area,Ridgewood - Forest Hills,"39,000",20.7
+2020,Area,Southwest Queens,"65,000",32.5
+2020,Area,Jamaica,"44,000",20.9
+2020,Area,Southeast Queens,"64,000",43.4
+2020,Area,Rockaways,"28,000",34.6
+2020,Area,Upper East Side-Gramercy,"28,000",9
+2020,Area,Chelsea-Village,"20,000",9.7
+2020,Area,Union Square-Lower Manhattan,"30,000",14.4
+2020,Area,Bayside Little Neck-Fresh Meadows,"28,000",20.4
+2020,Area,Northern SI,"47,000",32.3
+2020,Area,Southern SI,"73,000",33.9
+2020,Area,South Bronx,"143,000",37.3
+2020,Borough,Bronx,"332,000",32.9
+2020,Borough,Brooklyn,"479,000",25.3
+2020,Borough,Manhattan,"227,000",17.5
+2020,Borough,Queens,"435,000",25.5
+2020,Borough,Staten Island,"118,000",33
+2020,Citywide,New York City,"1,592,000",25.4
+2019,Area,East New York,"48,000",35.5
+2019,Area,Sunset Park,"13,000",14.1
+2019,Area,Borough Park,"43,000",18.7
+2019,Area,East Flatbush - Flatbush,"72,000",31.2
+2019,Area,Canarsie - Flatlands,"64,000",42.4
+2019,Area,Bensonhurst - Bay Ridge,"30,000",18.8
+2019,Area,Coney Island - Sheepshead Bay,"64,000",27.5
+2019,Area,Williamsburg - Bushwick,"47,000",32.3
+2019,Area,Washington Heights,"50,000",25.3
+2019,Area,Central Harlem - Morningside Heights,"45,000",36.9
+2019,Area,East Harlem,"27,000",34.1
+2019,Area,Upper West Side,"31,000",17
+2019,Area,Long Island City - Astoria,"32,000",18.4
+2019,Area,West Queens,"79,000",22.2
+2019,Area,Flushing - Clearview,"18,000",8.9
+2019,Area,Ridgewood - Forest Hills,"54,000",27
+2019,Area,Southwest Queens,"57,000",27.7
+2019,Area,Jamaica,"56,000",26.8
+2019,Area,Southeast Queens,"50,000",33.1
+2019,Area,Rockaways,"24,000",31.2
+2019,Area,Upper East Side-Gramercy,"29,000",9.3
+2019,Area,Chelsea-Village,"24,000",11.9
+2019,Area,Union Square-Lower Manhattan,"21,000",10.2
+2019,Area,Bayside Little Neck-Fresh Meadows,"27,000",19.2
+2019,Area,Northern SI,"37,000",25.8
+2019,Area,Southern SI,"68,000",32.1
+2019,Area,South Bronx,"128,000",33
+2019,Borough,Bronx,"343,000",33.5
+2019,Borough,Brooklyn,"490,000",25.8
+2019,Borough,Manhattan,"227,000",17.4
+2019,Borough,Queens,"408,000",23.4
+2019,Borough,Staten Island,"106,000",29.3
+2019,Citywide,New York City,"1,574,000",24.9
+2018,Area,East New York,"31,000",22.4
+2018,Area,Sunset Park,"20,000",20.5
+2018,Area,Borough Park,"49,000",20.9
+2018,Area,East Flatbush - Flatbush,"77,000",32.9
+2018,Area,Canarsie - Flatlands,"47,000",30.1
+2018,Area,Bensonhurst - Bay Ridge,"47,000",28.6
+2018,Area,Coney Island - Sheepshead Bay,"67,000",28.4
+2018,Area,Williamsburg - Bushwick,"46,000",29.3
+2018,Area,Washington Heights,"60,000",29.2
+2018,Area,Central Harlem - Morningside Heights,"46,000",36.6
+2018,Area,East Harlem,"22,000",26.9
+2018,Area,Upper West Side,"31,000",17
+2018,Area,Long Island City - Astoria,"37,000",20.8
+2018,Area,West Queens,"94,000",25.5
+2018,Area,Flushing - Clearview,"38,000",18.2
+2018,Area,Ridgewood - Forest Hills,"48,000",23
+2018,Area,Southwest Queens,"54,000",25.4
+2018,Area,Jamaica,"59,000",26.9
+2018,Area,Southeast Queens,"51,000",32.8
+2018,Area,Rockaways,"30,000",36.4
+2018,Area,Upper East Side-Gramercy,"27,000",8.8
+2018,Area,Chelsea-Village,"26,000",12.9
+2018,Area,Union Square-Lower Manhattan,"30,000",14.3
+2018,Area,Bayside Little Neck-Fresh Meadows,"33,000",22.2
+2018,Area,Northern SI,"55,000",38.8
+2018,Area,Southern SI,"75,000",35.7
+2018,Area,South Bronx,"126,000",31.1
+2018,Borough,Bronx,"336,000",31.8
+2018,Borough,Brooklyn,"527,000",26.9
+2018,Borough,Manhattan,"242,000",18.3
+2018,Borough,Queens,"447,000",24.5
+2018,Borough,Staten Island,"130,000",35.9
+2018,Citywide,New York City,"1,682,000",25.8
+2017,Area,East New York,"42,000",31.7
+2017,Area,Sunset Park,"22,000",22.5
+2017,Area,Borough Park,"47,000",19.7
+2017,Area,East Flatbush - Flatbush,"79,000",33.9
+2017,Area,Canarsie - Flatlands,"36,000",23.5
+2017,Area,Bensonhurst - Bay Ridge,"32,000",19.5
+2017,Area,Coney Island - Sheepshead Bay,"62,000",26.4
+2017,Area,Williamsburg - Bushwick,"44,000",27.5
+2017,Area,Washington Heights,"57,000",29
+2017,Area,Central Harlem - Morningside Heights,"30,000",24.8
+2017,Area,East Harlem,"23,000",28.6
+2017,Area,Upper West Side,"25,000",13.4
+2017,Area,Long Island City - Astoria,"41,000",24
+2017,Area,West Queens,"74,000",19.7
+2017,Area,Flushing - Clearview,"38,000",17.9
+2017,Area,Ridgewood - Forest Hills,"46,000",22.7
+2017,Area,Southwest Queens,"64,000",30.6
+2017,Area,Jamaica,"75,000",33.5
+2017,Area,Southeast Queens,"26,000",17.1
+2017,Area,Rockaways,"27,000",33.7
+2017,Area,Upper East Side-Gramercy,"40,000",12.9
+2017,Area,Chelsea-Village,"18,000",9
+2017,Area,Union Square-Lower Manhattan,"32,000",15.2
+2017,Area,Bayside Little Neck-Fresh Meadows,"34,000",22.7
+2017,Area,Northern SI,"43,000",30.2
+2017,Area,Southern SI,"51,000",23.4
+2017,Area,South Bronx,"153,000",39.1
+2017,Borough,Bronx,"357,000",34.4
+2017,Borough,Brooklyn,"514,000",26.4
+2017,Borough,Manhattan,"226,000",17.3
+2017,Borough,Queens,"426,000",23.9
+2017,Borough,Staten Island,"94,000",26
+2017,Citywide,New York City,"1,617,000",25.1
+2016,Area,East New York,"45,000",33.3
+2016,Area,Sunset Park,"24,000",24.4
+2016,Area,Borough Park,"46,000",19.6
+2016,Area,East Flatbush - Flatbush,"59,000",25.9
+2016,Area,Canarsie - Flatlands,"48,000",31.5
+2016,Area,Bensonhurst - Bay Ridge,"41,000",25.8
+2016,Area,Coney Island - Sheepshead Bay,"63,000",26.9
+2016,Area,Williamsburg - Bushwick,"43,000",28.2
+2016,Area,Washington Heights,"55,000",27.9
+2016,Area,Central Harlem - Morningside Heights,"36,000",29.4
+2016,Area,East Harlem,"20,000",25.2
+2016,Area,Upper West Side,"20,000",11.1
+2016,Area,Long Island City - Astoria,"35,000",19.8
+2016,Area,West Queens,"65,000",17.2
+2016,Area,Flushing - Clearview,"22,000",10.2
+2016,Area,Ridgewood - Forest Hills,"52,000",25.5
+2016,Area,Southwest Queens,"47,000",22.9
+2016,Area,Jamaica,"59,000",26.7
+2016,Area,Southeast Queens,"47,000",29.5
+2016,Area,Rockaways,"21,000",27.1
+2016,Area,Upper East Side-Gramercy,"34,000",10.9
+2016,Area,Chelsea-Village,"14,000",6.7
+2016,Area,Union Square-Lower Manhattan,"22,000",10.5
+2016,Area,Bayside Little Neck-Fresh Meadows,"33,000",22.2
+2016,Area,Northern SI,"31,000",22.1
+2016,Area,Southern SI,"62,000",29.3
+2016,Area,South Bronx,"151,000",38.6
+2016,Borough,Bronx,"348,000",33.5
+2016,Borough,Brooklyn,"498,000",25.8
+2016,Borough,Manhattan,"201,000",15.4
+2016,Borough,Queens,"382,000",21.3
+2016,Borough,Staten Island,"94,000",26.4
+2016,Citywide,New York City,"1,523,000",23.7
+2015,Area,East New York,"49,000",35.4
+2015,Area,Sunset Park,"21,000",21.3
+2015,Area,Borough Park,"39,000",16
+2015,Area,East Flatbush - Flatbush,"83,000",35.8
+2015,Area,Canarsie - Flatlands,"45,000",28.9
+2015,Area,Bensonhurst - Bay Ridge,"35,000",21.4
+2015,Area,Coney Island - Sheepshead Bay,"66,000",28.5
+2015,Area,Williamsburg - Bushwick,"38,000",25.8
+2015,Area,Washington Heights,"52,000",25.8
+2015,Area,Central Harlem - Morningside Heights,"37,000",31.3
+2015,Area,East Harlem,"20,000",26.2
+2015,Area,Upper West Side,"14,000",7.8
+2015,Area,Long Island City - Astoria,"40,000",23.2
+2015,Area,West Queens,"82,000",22
+2015,Area,Flushing - Clearview,"39,000",17.7
+2015,Area,Ridgewood - Forest Hills,"36,000",18.1
+2015,Area,Southwest Queens,"61,000",29.3
+2015,Area,Jamaica,"67,000",30.1
+2015,Area,Southeast Queens,"39,000",25.7
+2015,Area,Rockaways,"28,000",34.2
+2015,Area,Upper East Side-Gramercy,"40,000",12.9
+2015,Area,Chelsea-Village,"17,000",8.8
+2015,Area,Union Square-Lower Manhattan,"16,000",7.5
+2015,Area,Bayside Little Neck-Fresh Meadows,"29,000",19.3
+2015,Area,Northern SI,"33,000",23.6
+2015,Area,Southern SI,"56,000",26.2
+2015,Area,South Bronx,"132,000",33.9
+2015,Borough,Bronx,"319,000",31.1
+2015,Borough,Brooklyn,"520,000",26.7
+2015,Borough,Manhattan,"201,000",15.5
+2015,Borough,Queens,"421,000",23.6
+2015,Borough,Staten Island,"90,000",25.1
+2015,Citywide,New York City,"1,551,000",24.2
+2014,Area,East New York,"42,000",31.3
+2014,Area,Sunset Park,"18,000",19.1
+2014,Area,Borough Park,"53,000",22.6
+2014,Area,East Flatbush - Flatbush,"71,000",30.8
+2014,Area,Canarsie - Flatlands,"45,000",30.5
+2014,Area,Bensonhurst - Bay Ridge,"34,000",21
+2014,Area,Coney Island - Sheepshead Bay,"71,000",31.1
+2014,Area,Williamsburg - Bushwick,"49,000",31.7
+2014,Area,Washington Heights,"47,000",23.3
+2014,Area,Central Harlem - Morningside Heights,"40,000",34.3
+2014,Area,East Harlem,"28,000",34.9
+2014,Area,Upper West Side,"26,000",14.5
+2014,Area,Long Island City - Astoria,"47,000",26.7
+2014,Area,West Queens,"83,000",23.4
+2014,Area,Flushing - Clearview,"32,000",15
+2014,Area,Ridgewood - Forest Hills,"38,000",19
+2014,Area,Southwest Queens,"63,000",30.7
+2014,Area,Jamaica,"66,000",30.2
+2014,Area,Southeast Queens,"31,000",20
+2014,Area,Rockaways,"21,000",26
+2014,Area,Upper East Side-Gramercy,"36,000",11.8
+2014,Area,Chelsea-Village,"23,000",11.7
+2014,Area,Union Square-Lower Manhattan,"27,000",13
+2014,Area,Bayside Little Neck-Fresh Meadows,"41,000",27.1
+2014,Area,Northern SI,"41,000",28.9
+2014,Area,Southern SI,"66,000",31
+2014,Area,South Bronx,"115,000",30.5
+2014,Borough,Bronx,"303,000",30.2
+2014,Borough,Brooklyn,"505,000",26.3
+2014,Borough,Manhattan,"227,000",17.5
+2014,Borough,Queens,"424,000",24.1
+2014,Borough,Staten Island,"107,000",30.2
+2014,Citywide,New York City,"1,567,000",24.7
+2013,Area,East New York,"32,000",24.2
+2013,Area,Sunset Park,"18,000",20.7
+2013,Area,Borough Park,"68,000",30
+2013,Area,East Flatbush - Flatbush,"63,000",28.8
+2013,Area,Canarsie - Flatlands,"63,000",42
+2013,Area,Bensonhurst - Bay Ridge,"38,000",23.6
+2013,Area,Coney Island - Sheepshead Bay,"75,000",32.7
+2013,Area,Williamsburg - Bushwick,"39,000",25.1
+2013,Area,Washington Heights,"45,000",24
+2013,Area,Central Harlem - Morningside Heights,"31,000",26.2
+2013,Area,East Harlem,"29,000",37.8
+2013,Area,Upper West Side,"20,000",11.6
+2013,Area,Long Island City - Astoria,"24,000",15.1
+2013,Area,West Queens,"78,000",22.6
+2013,Area,Flushing - Clearview,"23,000",11.5
+2013,Area,Ridgewood - Forest Hills,"28,000",14.1
+2013,Area,Southwest Queens,"47,000",23.4
+2013,Area,Jamaica,"51,000",23.6
+2013,Area,Southeast Queens,"35,000",22.7
+2013,Area,Rockaways,"22,000",27.7
+2013,Area,Upper East Side-Gramercy,"30,000",9.8
+2013,Area,Chelsea-Village,"20,000",10.6
+2013,Area,Union Square-Lower Manhattan,"27,000",13.2
+2013,Area,Bayside Little Neck-Fresh Meadows,"19,000",13.5
+2013,Area,Northern SI,"41,000",29.5
+2013,Area,Southern SI,"63,000",30
+2013,Area,South Bronx,"126,000",34.1
+2013,Borough,Bronx,"308,000",31
+2013,Borough,Brooklyn,"510,000",27
+2013,Borough,Manhattan,"212,000",16.4
+2013,Borough,Queens,"338,000",19.3
+2013,Borough,Staten Island,"105,000",30
+2013,Citywide,New York City,"1,470,000",23.5
+2012,Area,East New York,"48,000",37
+2012,Area,Sunset Park,"21,000",23.4
+2012,Area,Borough Park,"54,000",24.4
+2012,Area,East Flatbush - Flatbush,"60,000",27.4
+2012,Area,Canarsie - Flatlands,"45,000",31.7
+2012,Area,Bensonhurst - Bay Ridge,"35,000",22.7
+2012,Area,Coney Island - Sheepshead Bay,"74,000",33.3
+2012,Area,Williamsburg - Bushwick,"42,000",29.1
+2012,Area,Washington Heights,"42,000",21.8
+2012,Area,Central Harlem - Morningside Heights,"33,000",30.8
+2012,Area,East Harlem,"18,000",25.8
+2012,Area,Upper West Side,"33,000",18.3
+2012,Area,Long Island City - Astoria,"39,000",23.8
+2012,Area,West Queens,"81,000",23.6
+2012,Area,Flushing - Clearview,"36,000",17.6
+2012,Area,Ridgewood - Forest Hills,"32,000",17
+2012,Area,Southwest Queens,"51,000",25.5
+2012,Area,Jamaica,"56,000",26.7
+2012,Area,Southeast Queens,"39,000",25.8
+2012,Area,Rockaways,"27,000",35.2
+2012,Area,Upper East Side-Gramercy,"26,000",8.9
+2012,Area,Chelsea-Village,"15,000",7.6
+2012,Area,Union Square-Lower Manhattan,"16,000",7.9
+2012,Area,Bayside Little Neck-Fresh Meadows,"21,000",14.2
+2012,Area,Northern SI,"48,000",34.7
+2012,Area,Southern SI,"67,000",31.5
+2012,Area,South Bronx,"108,000",30.1
+2012,Borough,Bronx,"311,000",31.8
+2012,Borough,Brooklyn,"500,000",26.8
+2012,Borough,Manhattan,"185,000",14.5
+2012,Borough,Queens,"387,000",22.3
+2012,Borough,Staten Island,"115,000",32.6
+2012,Citywide,New York City,"1,498,000",24.1
+2011,Area,East New York,"42,000",33.5
+2011,Area,Sunset Park,"16,000",18
+2011,Area,Borough Park,"76,000",33.5
+2011,Area,East Flatbush - Flatbush,"56,000",25.2
+2011,Area,Canarsie - Flatlands,"38,000",26.1
+2011,Area,Bensonhurst - Bay Ridge,"24,000",16.1
+2011,Area,Coney Island - Sheepshead Bay,"58,000",26.1
+2011,Area,Williamsburg - Bushwick,"52,000",34.6
+2011,Area,Washington Heights,"35,000",20.1
+2011,Area,Central Harlem - Morningside Heights,"29,000",24.4
+2011,Area,East Harlem,"23,000",29.2
+2011,Area,Upper West Side,"14,000",8.1
+2011,Area,Long Island City - Astoria,"51,000",30.5
+2011,Area,West Queens,"72,000",21.2
+2011,Area,Flushing - Clearview,"42,000",20.4
+2011,Area,Ridgewood - Forest Hills,"33,000",18.1
+2011,Area,Southwest Queens,"57,000",29
+2011,Area,Jamaica,"51,000",23.9
+2011,Area,Southeast Queens,"29,000",21.3
+2011,Area,Rockaways,"18,000",23.5
+2011,Area,Upper East Side-Gramercy,"36,000",12
+2011,Area,Chelsea-Village,"19,000",9.7
+2011,Area,Union Square-Lower Manhattan,"22,000",11.1
+2011,Area,Bayside Little Neck-Fresh Meadows,"25,000",17.4
+2011,Area,Northern SI,"45,000",33.3
+2011,Area,Southern SI,"50,000",24.7
+2011,Area,South Bronx,"116,000",32.9
+2011,Borough,Bronx,"286,000",30.2
+2011,Borough,Brooklyn,"501,000",27.1
+2011,Borough,Manhattan,"178,000",14
+2011,Borough,Queens,"395,000",23
+2011,Borough,Staten Island,"99,000",28.4
+2011,Citywide,New York City,"1,460,000",23.8
+2010,Area,East New York,"33,000",31
+2010,Area,Sunset Park,"22,000",26
+2010,Area,Borough Park,"48,000",21.2
+2010,Area,East Flatbush - Flatbush,"59,000",26.7
+2010,Area,Canarsie - Flatlands,"38,000",26.6
+2010,Area,Bensonhurst - Bay Ridge,"32,000",21.5
+2010,Area,Coney Island - Sheepshead Bay,"61,000",28.2
+2010,Area,Williamsburg - Bushwick,"40,000",33
+2010,Area,Washington Heights,"27,000",14.6
+2010,Area,Central Harlem - Morningside Heights,"23,000",22.2
+2010,Area,East Harlem,"24,000",30.9
+2010,Area,Upper West Side,"39,000",20.6
+2010,Area,Long Island City - Astoria,"39,000",21.8
+2010,Area,West Queens,"81,000",22.8
+2010,Area,Flushing - Clearview,"35,000",17.6
+2010,Area,Ridgewood - Forest Hills,"26,000",14
+2010,Area,Southwest Queens,"40,000",20.4
+2010,Area,Jamaica,"55,000",27.1
+2010,Area,Southeast Queens,"46,000",31
+2010,Area,Rockaways,"17,000",23.6
+2010,Area,Upper East Side-Gramercy,"22,000",7.6
+2010,Area,Chelsea-Village,"13,000",7
+2010,Area,Union Square-Lower Manhattan,"30,000",16.2
+2010,Area,Bayside Little Neck-Fresh Meadows,"21,000",15
+2010,Area,Northern SI,"42,000",32.7
+2010,Area,Southern SI,"48,000",25.4
+2010,Area,South Bronx,"100,000",31.1
+2010,Borough,Bronx,"281,000",30.7
+2010,Borough,Brooklyn,"465,000",26.5
+2010,Borough,Manhattan,"179,000",14.3
+2010,Borough,Queens,"363,000",21.3
+2010,Borough,Staten Island,"90,000",28.3
+2010,Citywide,New York City,"1,379,000",23.2
+2009,Area,East New York,"30,000",26.6
+2009,Area,Sunset Park,"30,000",35.5
+2009,Area,Borough Park,"44,000",18.8
+2009,Area,East Flatbush - Flatbush,"66,000",29.8
+2009,Area,Canarsie - Flatlands,"46,000",31.8
+2009,Area,Bensonhurst - Bay Ridge,"26,000",16.7
+2009,Area,Coney Island - Sheepshead Bay,"69,000",31.5
+2009,Area,Williamsburg - Bushwick,"41,000",32.1
+2009,Area,Washington Heights,"51,000",26.6
+2009,Area,Central Harlem - Morningside Heights,"40,000",36.1
+2009,Area,East Harlem,"15,000",19.7
+2009,Area,Upper West Side,"18,000",9.5
+2009,Area,Long Island City - Astoria,"28,000",16.9
+2009,Area,West Queens,"64,000",18
+2009,Area,Flushing - Clearview,"35,000",18.2
+2009,Area,Ridgewood - Forest Hills,"44,000",23.5
+2009,Area,Southwest Queens,"42,000",21.8
+2009,Area,Jamaica,"61,000",29.9
+2009,Area,Southeast Queens,"50,000",33.2
+2009,Area,Rockaways,"22,000",29.5
+2009,Area,Upper East Side-Gramercy,"33,000",11.4
+2009,Area,Chelsea-Village,"14,000",7.5
+2009,Area,Union Square-Lower Manhattan,"30,000",15.7
+2009,Area,Bayside Little Neck-Fresh Meadows,"26,000",18.7
+2009,Area,Northern SI,"29,000",23.8
+2009,Area,Southern SI,"46,000",23.7
+2009,Area,South Bronx,"101,000",31.2
+2009,Borough,Bronx,"267,000",29.3
+2009,Borough,Brooklyn,"453,000",25.6
+2009,Borough,Manhattan,"202,000",16.1
+2009,Borough,Queens,"382,000",22.6
+2009,Borough,Staten Island,"75,000",23.1
+2009,Citywide,New York City,"1,378,000",23.2
+2008,Area,East New York,"40,000",35.3
+2008,Area,Sunset Park,"23,000",27.8
+2008,Area,Borough Park,"56,000",24.4
+2008,Area,East Flatbush - Flatbush,"40,000",18.4
+2008,Area,Canarsie - Flatlands,"35,000",24.7
+2008,Area,Bensonhurst - Bay Ridge,"37,000",24.2
+2008,Area,Coney Island - Sheepshead Bay,"50,000",22.6
+2008,Area,Williamsburg - Bushwick,"39,000",30.3
+2008,Area,Washington Heights,"57,000",29.5
+2008,Area,Central Harlem - Morningside Heights,"30,000",26.8
+2008,Area,East Harlem,"25,000",34.5
+2008,Area,Upper West Side,"16,000",8.3
+2008,Area,Long Island City - Astoria,"36,000",20.4
+2008,Area,West Queens,"60,000",16.5
+2008,Area,Flushing - Clearview,"41,000",20.3
+2008,Area,Ridgewood - Forest Hills,"37,000",19.5
+2008,Area,Southwest Queens,"44,000",21.9
+2008,Area,Jamaica,"54,000",26.1
+2008,Area,Southeast Queens,"35,000",23.3
+2008,Area,Rockaways,"22,000",29.8
+2008,Area,Upper East Side-Gramercy,"32,000",10.7
+2008,Area,Chelsea-Village,"19,000",10.4
+2008,Area,Union Square-Lower Manhattan,"21,000",10.7
+2008,Area,Bayside Little Neck-Fresh Meadows,"27,000",19.4
+2008,Area,Northern SI,"43,000",33.4
+2008,Area,Southern SI,"46,000",23.2
+2008,Area,South Bronx,"110,000",33.8
+2008,Borough,Bronx,"264,000",28.9
+2008,Borough,Brooklyn,"438,000",24.7
+2008,Borough,Manhattan,"200,000",16
+2008,Borough,Queens,"356,000",20.9
+2008,Borough,Staten Island,"89,000",27.2
+2008,Citywide,New York City,"1,346,000",22.6
+2007,Area,East New York,"31,000",29.2
+2007,Area,Sunset Park,"16,000",19
+2007,Area,Borough Park,"53,000",23.9
+2007,Area,East Flatbush - Flatbush,"53,000",24.2
+2007,Area,Canarsie - Flatlands,"38,000",27.6
+2007,Area,Bensonhurst - Bay Ridge,"28,000",18.9
+2007,Area,Coney Island - Sheepshead Bay,"42,000",197
+2007,Area,Williamsburg - Bushwick,"35,000",27.8
+2007,Area,Washington Heights,"38,000",20.3
+2007,Area,Central Harlem - Morningside Heights,"30,000",27.1
+2007,Area,East Harlem,"25,000",33.5
+2007,Area,Upper West Side,"29,000",15.6
+2007,Area,Long Island City - Astoria,"34,000",20.7
+2007,Area,West Queens,"62,000",17.7
+2007,Area,Flushing - Clearview,"23,000",12.2
+2007,Area,Ridgewood - Forest Hills,"43,000",22.9
+2007,Area,Southwest Queens,"31,000",16
+2007,Area,Jamaica,"54,000",27.1
+2007,Area,Southeast Queens,"27,000",18.4
+2007,Area,Rockaways,"28,000",38.7
+2007,Area,Upper East Side-Gramercy,"23,000",8
+2007,Area,Chelsea-Village,"13,000",7.1
+2007,Area,Union Square-Lower Manhattan,"19,000",10.2
+2007,Area,Bayside Little Neck-Fresh Meadows,"29,000",20.6
+2007,Area,Northern SI,"40,000",31.3
+2007,Area,Southern SI,"41,000",21
+2007,Area,South Bronx,"106,000",33.2
+2007,Borough,Bronx,"273,000",30.4
+2007,Borough,Brooklyn,"414,000",24
+2007,Borough,Manhattan,"177,000",14.6
+2007,Borough,Queens,"330,000",20.1
+2007,Borough,Staten Island,"80,000",25.1
+2007,Citywide,New York City,"1,275,000",22
+2006,Area,East New York,"28,000",25
+2006,Area,Sunset Park,"19,000",24.7
+2006,Area,Borough Park,"41,000",18.9
+2006,Area,East Flatbush - Flatbush,"57,000",26.8
+2006,Area,Canarsie - Flatlands,"42,000",30.3
+2006,Area,Bensonhurst - Bay Ridge,"27,000",18.4
+2006,Area,Coney Island - Sheepshead Bay,"46,000",22.4
+2006,Area,Williamsburg - Bushwick,"37,000",30.6
+2006,Area,Washington Heights,"38,000",20.6
+2006,Area,Central Harlem - Morningside Heights,"25,000",23.7
+2006,Area,East Harlem,"15,000",20.9
+2006,Area,Upper West Side,"25,000",13.4
+2006,Area,Long Island City - Astoria,"41,000",24.1
+2006,Area,West Queens,"51,000",14.7
+2006,Area,Flushing - Clearview,"28,000",14.9
+2006,Area,Ridgewood - Forest Hills,"27,000",15.1
+2006,Area,Southwest Queens,"46,000",25.1
+2006,Area,Jamaica,"48,000",24.3
+2006,Area,Southeast Queens,"32,000",23
+2006,Area,Rockaways,"17,000",23.4
+2006,Area,Upper East Side-Gramercy,"27,000",9.4
+2006,Area,Chelsea-Village,"16,000",9.1
+2006,Area,Union Square-Lower Manhattan,"24,000",13.3
+2006,Area,Bayside Little Neck-Fresh Meadows,"28,000",21.5
+2006,Area,Northern SI,"33,000",26.8
+2006,Area,Southern SI,"39,000",20.1
+2006,Area,South Bronx,"82,000",26.2
+2006,Borough,Bronx,"225,000",25.3
+2006,Borough,Brooklyn,"408,000",24.1
+2006,Borough,Manhattan,"170,000",14.2
+2006,Borough,Queens,"319,000",19.8
+2006,Borough,Staten Island,"71,000",22.7
+2006,Citywide,New York City,"1,194,000",20.9
+2005,Area,East New York,"32,000",31.6
+2005,Area,Sunset Park,"21,000",25.2
+2005,Area,Borough Park,"48,000",22.3
+2005,Area,East Flatbush - Flatbush,"46,000",22.2
+2005,Area,Canarsie - Flatlands,"27,000",19.7
+2005,Area,Bensonhurst - Bay Ridge,"31,000",20.8
+2005,Area,Coney Island - Sheepshead Bay,"52,000",25.4
+2005,Area,Williamsburg - Bushwick,"30,000",24.2
+2005,Area,Washington Heights,"36,000",19.5
+2005,Area,Central Harlem - Morningside Heights,"29,000",27.4
+2005,Area,East Harlem,"22,000",31.6
+2005,Area,Upper West Side,"13,000",7.2
+2005,Area,Long Island City - Astoria,"33,000",19.5
+2005,Area,West Queens,"45,000",13.5
+2005,Area,Flushing - Clearview,"29,000",14.6
+2005,Area,Ridgewood - Forest Hills,"25,000",13.6
+2005,Area,Southwest Queens,"30,000",16.2
+2005,Area,Jamaica,"52,000",26
+2005,Area,Southeast Queens,"32,000",21.9
+2005,Area,Rockaways,"16,000",23.3
+2005,Area,Upper East Side-Gramercy,"21,000",7.4
+2005,Area,Chelsea-Village,"12,000",6.8
+2005,Area,Union Square-Lower Manhattan,"22,000",11.9
+2005,Area,Bayside Little Neck-Fresh Meadows,"19,000",13.9
+2005,Area,Northern SI,"32,000",26.3
+2005,Area,Southern SI,"35,000",18.8
+2005,Area,South Bronx,"94,000",29.8
+2005,Borough,Bronx,"224,000",25.8
+2005,Borough,Brooklyn,"390,000",23.3
+2005,Borough,Manhattan,"157,000",13
+2005,Borough,Queens,"280,000",17.3
+2005,Borough,Staten Island,"68,000",21.8
+2005,Citywide,New York City,"1,118,000",19.7
+2004,Area,East New York,"34,000",32
+2004,Area,Sunset Park,"15,000",18.3
+2004,Area,Borough Park,"44,000",19.8
+2004,Area,East Flatbush - Flatbush,"52,000",23.7
+2004,Area,Canarsie - Flatlands,"33,000",23.5
+2004,Area,Bensonhurst - Bay Ridge,"31,000",20.4
+2004,Area,Coney Island - Sheepshead Bay,"52,000",24.9
+2004,Area,Williamsburg - Bushwick,"35,000",29
+2004,Area,Washington Heights,"44,000",22.4
+2004,Area,Central Harlem - Morningside Heights,"28,000",26
+2004,Area,East Harlem,"22,000",29.4
+2004,Area,Upper West Side,"17,000",9.4
+2004,Area,Long Island City - Astoria,"31,000",18.6
+2004,Area,West Queens,"74,000",21.5
+2004,Area,Flushing - Clearview,"33,000",16.8
+2004,Area,Ridgewood - Forest Hills,"38,000",21.2
+2004,Area,Southwest Queens,"30,000",15.5
+2004,Area,Jamaica,"52,000",26
+2004,Area,Southeast Queens,"36,000",25.1
+2004,Area,Rockaways,"20,000",26.2
+2004,Area,Upper East Side-Gramercy,"26,000",8.9
+2004,Area,Chelsea-Village,"18,000",9.9
+2004,Area,Union Square-Lower Manhattan,"31,000",16.9
+2004,Area,Bayside Little Neck-Fresh Meadows,"23,000",17.4
+2004,Area,Northern SI,"34,000",27.6
+2004,Area,Southern SI,"49,000",25.6
+2004,Area,South Bronx,"80,000",24.9
+2004,Borough,Bronx,"230,000",25.9
+2004,Borough,Brooklyn,"397,000",23.3
+2004,Borough,Manhattan,"186,000",15.2
+2004,Borough,Queens,"337,000",20.7
+2004,Borough,Staten Island,"83,000",26.4
+2004,Citywide,New York City,"1,233,000",21.4
+2003,Area,East New York,"30,000",28.5
+2003,Area,Sunset Park,"15,000",19.7
+2003,Area,Borough Park,"47,000",22.4
+2003,Area,East Flatbush - Flatbush,"57,000",27.8
+2003,Area,Canarsie - Flatlands,"30,000",23.5
+2003,Area,Bensonhurst - Bay Ridge,"28,000",20.1
+2003,Area,Coney Island - Sheepshead Bay,"39,000",19.5
+2003,Area,Williamsburg - Bushwick,"33,000",27.6
+2003,Area,Washington Heights,"39,000",21.4
+2003,Area,Central Harlem - Morningside Heights,"29,000",27.6
+2003,Area,East Harlem,"24,000",33.3
+2003,Area,Upper West Side,"22,000",12.5
+2003,Area,Long Island City - Astoria,"27,000",16.4
+2003,Area,West Queens,"52,000",16
+2003,Area,Flushing - Clearview,"26,000",14.9
+2003,Area,Ridgewood - Forest Hills,"28,000",15.4
+2003,Area,Southwest Queens,"43,000",22.9
+2003,Area,Jamaica,"43,000",22.3
+2003,Area,Southeast Queens,"33,000",24
+2003,Area,Rockaways,"19,000",27.3
+2003,Area,Upper East Side-Gramercy,"24,000",8.4
+2003,Area,Chelsea-Village,"17,000",9.9
+2003,Area,Union Square-Lower Manhattan,"25,000",13.9
+2003,Area,Bayside Little Neck-Fresh Meadows,"18,000",13.4
+2003,Area,Northern SI,"27,000",22.9
+2003,Area,Southern SI,"28,000",16.2
+2003,Area,South Bronx,"77,000",26.2
+2003,Borough,Bronx,"193,000",23.3
+2003,Borough,Brooklyn,"376,000",23.3
+2003,Borough,Manhattan,"180,000",15.3
+2003,Borough,Queens,"288,000",18.4
+2003,Borough,Staten Island,"55,000",18.9
+2003,Citywide,New York City,"1,093,000",20
