@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About page</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #ffe4e4; /* This is a shade of grey */
+        }
+    </style>
+
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/index">Obesity in NYC</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="/about">About</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Obesity Within Each Borough
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/manhattan">Manhattan</a></li>
+                                <li><a class="dropdown-item" href="/queens">Queens</a></li>
+                                <li><a class="dropdown-item" href="/bronx">Bronx</a></li>
+                                <li><a class="dropdown-item" href="/brooklyn">Brooklyn</a></li>
+                                <li><a class="dropdown-item" href="/si">Staten Island</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container mt-3">
+        <section id="macro" class="text-center">
+            <h2  class="mt-4">New York City Page Prototype</h2>
+            <img src="/static/macro.jpg" alt="Macro Analysis" class="img-fluid mx-auto d-block" style="max-width: 500px;">
+
+            <h5>Summary and Takeaways:</h5>
+
+            <p class="mx-auto" style="max-width: 1000px;">This map provides a clear and efficient visual representation of the varying levels of obesity across New York City's boroughs. By using a color-coded scale, it allows viewers to easily discern which areas have higher obesity rates without the need to interpret numerical data. While this map offers a general overview of obesity distribution in NYC, it does not define obesity or explain its health implications. The audience should understand why obesity is a concern and its associated risks.</p>
+
+            <h5>Feedback:</h5>
+
+
+            <p class="mx-auto" style="max-width: 1000px;">I inserted a medical definition for obesity and explained why being obese is dangerous. I also inclded why spreading awareness about populations that are obese is important. Lastly, I removed the data table as it just reiterated what is shown in the graph.</p>
+        </section>
+
+        <section id="micro" class="text-center">
+            <h2>Individual NYC Borough Page Prototype</h2>
+            <img src="/static/micro.jpg" alt="Micro Analysis" class="img-fluid mx-auto d-block" style="max-width: 500px;">
+
+            <h5>Summary and Takeaways:</h5>
+
+            <p class="mx-auto" style="max-width: 1000px;">The graph allows the reader to see the trend of obesity in each specific borough over the past 18 years. It is very clear as it uses colors to make it so that the borough the page is about contrasts against the rest of the boroughs' trends, allowing the reader to understand not only the increase of obesity in that borough but also within the context of all the other boroughs.</p>
+
+            <h5>Feedback:</h5>
+
+
+            <p class="mx-auto" style="max-width: 1000px;">The color emphasis on the line being discussed is effective, as it clearly distinguishes changes within a borough compared to others. This approach enhances the clarity of the title. Do not make the other boroughs' lines just gray, as this appears vague and unclear.</p>
+        </section>
+
+        <hr>
+
+
+        <section class="vocabulary text-center">
+            <h3>Vocabulary:</h3>
+            <dl class="mx-auto" style="max-width: 1000px;">
+                <dt>Obesity:</dt>
+                <dd>This is a medical condition which is defined as excessive body fat accumulation that poses health risks, characterized by a Body Mass Index (BMI) of 30 or higher. It increases the risk of developing diabetes, heart disease, stroke, and other diseases.</dd>
+            </dl>
+        </section>
+
+
+        <section class="changes text-center">
+            <h3>What Did I Change from My Prototypes:</h3>
+            <ul class="mx-auto" style="max-width: 1000px;">
+                <li>I included why it was important to increase awareness of obesity.</li>
+                <li>I took away the table that I first included in my prototype on my broad NYC page as it was just redundant information.</li>
+                <li>In my Individual Borough pages, I further specified the other borough lines by labeling them, making them seem more than just “gray lines”.</li>
+            </ul>
+        </section>
+
+        <section id="pipeline" class="text-center">
+            <h3>Pipeline for Creating My JSON Dictionary from CSV Data</h3>
+            <ol class="mx-auto" style="max-width: 1000px;">
+                <li>I first imported the CSV library, the JSON library, and the OS library for checking files.</li>
+                <li>I then defined the csv_file_path for the CSV source, and the json_file_path for the JSON destination. This makes managing and making adjustments to the files easier.</li>
+                <li>I opened the CSV file and read the rows into the dictionary using csv.DictReader, which automatically uses the first row headers.</li>
+                <li>I then organized the data into a nested dictionary by creating sections called "Geography" and "Time Period" for the JSON formatting. Within this, I added the number and percent that are obese within the year and each geographical location.</li>
+                <li>For writing to JSON, I used json.dump() to ensure the data is secure and to make it more readable by adding indents.</li>
+                <li>When all of this works, a successful JSON dictionary is made from my clean data, and I can now easily use it for graphs I am planning to make.</li>
+            </ol>
+        </section>
+    </main>
+    <footer>
+        <p style="font-size: 9px;"> footer </p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>

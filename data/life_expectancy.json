@@ -1,0 +1,3632 @@
+{
+    "East New York": {
+        "2020": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "26.6"
+        },
+        "2019": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "35.5"
+        },
+        "2018": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "22.4"
+        },
+        "2017": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "31.7"
+        },
+        "2016": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "33.3"
+        },
+        "2015": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "49,000",
+            "Percent That Are Obese": "35.4"
+        },
+        "2014": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "31.3"
+        },
+        "2013": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "24.2"
+        },
+        "2012": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "37"
+        },
+        "2011": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "33.5"
+        },
+        "2010": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "31"
+        },
+        "2009": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "26.6"
+        },
+        "2008": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "35.3"
+        },
+        "2007": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "29.2"
+        },
+        "2006": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "25"
+        },
+        "2005": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "31.6"
+        },
+        "2004": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "34,000",
+            "Percent That Are Obese": "32"
+        },
+        "2003": {
+            "Geography": "East New York",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "28.5"
+        }
+    },
+    "Sunset Park": {
+        "2020": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "25.5"
+        },
+        "2019": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "13,000",
+            "Percent That Are Obese": "14.1"
+        },
+        "2018": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "20.5"
+        },
+        "2017": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "22.5"
+        },
+        "2016": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "24.4"
+        },
+        "2015": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "21.3"
+        },
+        "2014": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "19.1"
+        },
+        "2013": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "20.7"
+        },
+        "2012": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "23.4"
+        },
+        "2011": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "18"
+        },
+        "2010": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "26"
+        },
+        "2009": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "35.5"
+        },
+        "2008": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "27.8"
+        },
+        "2007": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "19"
+        },
+        "2006": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "24.7"
+        },
+        "2005": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "25.2"
+        },
+        "2004": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "15,000",
+            "Percent That Are Obese": "18.3"
+        },
+        "2003": {
+            "Geography": "Sunset Park",
+            "GeoType": "Area",
+            "Number": "15,000",
+            "Percent That Are Obese": "19.7"
+        }
+    },
+    "Borough Park": {
+        "2020": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "49,000",
+            "Percent That Are Obese": "21.5"
+        },
+        "2019": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "18.7"
+        },
+        "2018": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "49,000",
+            "Percent That Are Obese": "20.9"
+        },
+        "2017": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "19.7"
+        },
+        "2016": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "19.6"
+        },
+        "2015": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "16"
+        },
+        "2014": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "53,000",
+            "Percent That Are Obese": "22.6"
+        },
+        "2013": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "68,000",
+            "Percent That Are Obese": "30"
+        },
+        "2012": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "54,000",
+            "Percent That Are Obese": "24.4"
+        },
+        "2011": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "76,000",
+            "Percent That Are Obese": "33.5"
+        },
+        "2010": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "21.2"
+        },
+        "2009": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "18.8"
+        },
+        "2008": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "56,000",
+            "Percent That Are Obese": "24.4"
+        },
+        "2007": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "53,000",
+            "Percent That Are Obese": "23.9"
+        },
+        "2006": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "18.9"
+        },
+        "2005": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "22.3"
+        },
+        "2004": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "19.8"
+        },
+        "2003": {
+            "Geography": "Borough Park",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "22.4"
+        }
+    },
+    "East Flatbush - Flatbush": {
+        "2020": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "63,000",
+            "Percent That Are Obese": "29.2"
+        },
+        "2019": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "72,000",
+            "Percent That Are Obese": "31.2"
+        },
+        "2018": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "77,000",
+            "Percent That Are Obese": "32.9"
+        },
+        "2017": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "79,000",
+            "Percent That Are Obese": "33.9"
+        },
+        "2016": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "59,000",
+            "Percent That Are Obese": "25.9"
+        },
+        "2015": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "83,000",
+            "Percent That Are Obese": "35.8"
+        },
+        "2014": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "71,000",
+            "Percent That Are Obese": "30.8"
+        },
+        "2013": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "63,000",
+            "Percent That Are Obese": "28.8"
+        },
+        "2012": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "60,000",
+            "Percent That Are Obese": "27.4"
+        },
+        "2011": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "56,000",
+            "Percent That Are Obese": "25.2"
+        },
+        "2010": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "59,000",
+            "Percent That Are Obese": "26.7"
+        },
+        "2009": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "66,000",
+            "Percent That Are Obese": "29.8"
+        },
+        "2008": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "18.4"
+        },
+        "2007": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "53,000",
+            "Percent That Are Obese": "24.2"
+        },
+        "2006": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "57,000",
+            "Percent That Are Obese": "26.8"
+        },
+        "2005": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "22.2"
+        },
+        "2004": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "23.7"
+        },
+        "2003": {
+            "Geography": "East Flatbush - Flatbush",
+            "GeoType": "Area",
+            "Number": "57,000",
+            "Percent That Are Obese": "27.8"
+        }
+    },
+    "Canarsie - Flatlands": {
+        "2020": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "56,000",
+            "Percent That Are Obese": "39.1"
+        },
+        "2019": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "64,000",
+            "Percent That Are Obese": "42.4"
+        },
+        "2018": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "30.1"
+        },
+        "2017": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "23.5"
+        },
+        "2016": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "31.5"
+        },
+        "2015": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "28.9"
+        },
+        "2014": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "30.5"
+        },
+        "2013": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "63,000",
+            "Percent That Are Obese": "42"
+        },
+        "2012": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "31.7"
+        },
+        "2011": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "26.1"
+        },
+        "2010": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "26.6"
+        },
+        "2009": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "31.8"
+        },
+        "2008": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "24.7"
+        },
+        "2007": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "27.6"
+        },
+        "2006": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "30.3"
+        },
+        "2005": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "19.7"
+        },
+        "2004": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "23.5"
+        },
+        "2003": {
+            "Geography": "Canarsie - Flatlands",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "23.5"
+        }
+    },
+    "Bensonhurst - Bay Ridge": {
+        "2020": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "22.3"
+        },
+        "2019": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "18.8"
+        },
+        "2018": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "28.6"
+        },
+        "2017": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "19.5"
+        },
+        "2016": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2015": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "21.4"
+        },
+        "2014": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "34,000",
+            "Percent That Are Obese": "21"
+        },
+        "2013": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "23.6"
+        },
+        "2012": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "22.7"
+        },
+        "2011": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "16.1"
+        },
+        "2010": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "21.5"
+        },
+        "2009": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "16.7"
+        },
+        "2008": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "37,000",
+            "Percent That Are Obese": "24.2"
+        },
+        "2007": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "18.9"
+        },
+        "2006": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "18.4"
+        },
+        "2005": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "20.8"
+        },
+        "2004": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "20.4"
+        },
+        "2003": {
+            "Geography": "Bensonhurst - Bay Ridge",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "20.1"
+        }
+    },
+    "Coney Island - Sheepshead Bay": {
+        "2020": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "60,000",
+            "Percent That Are Obese": "26.6"
+        },
+        "2019": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "64,000",
+            "Percent That Are Obese": "27.5"
+        },
+        "2018": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "67,000",
+            "Percent That Are Obese": "28.4"
+        },
+        "2017": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "62,000",
+            "Percent That Are Obese": "26.4"
+        },
+        "2016": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "63,000",
+            "Percent That Are Obese": "26.9"
+        },
+        "2015": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "66,000",
+            "Percent That Are Obese": "28.5"
+        },
+        "2014": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "71,000",
+            "Percent That Are Obese": "31.1"
+        },
+        "2013": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "75,000",
+            "Percent That Are Obese": "32.7"
+        },
+        "2012": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "74,000",
+            "Percent That Are Obese": "33.3"
+        },
+        "2011": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "58,000",
+            "Percent That Are Obese": "26.1"
+        },
+        "2010": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "61,000",
+            "Percent That Are Obese": "28.2"
+        },
+        "2009": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "69,000",
+            "Percent That Are Obese": "31.5"
+        },
+        "2008": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "50,000",
+            "Percent That Are Obese": "22.6"
+        },
+        "2007": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "197"
+        },
+        "2006": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "22.4"
+        },
+        "2005": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "25.4"
+        },
+        "2004": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "24.9"
+        },
+        "2003": {
+            "Geography": "Coney Island - Sheepshead Bay",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "19.5"
+        }
+    },
+    "Williamsburg - Bushwick": {
+        "2020": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "25.9"
+        },
+        "2019": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "32.3"
+        },
+        "2018": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "29.3"
+        },
+        "2017": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "27.5"
+        },
+        "2016": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "28.2"
+        },
+        "2015": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2014": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "49,000",
+            "Percent That Are Obese": "31.7"
+        },
+        "2013": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "25.1"
+        },
+        "2012": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "29.1"
+        },
+        "2011": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "34.6"
+        },
+        "2010": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "33"
+        },
+        "2009": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "32.1"
+        },
+        "2008": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "30.3"
+        },
+        "2007": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "27.8"
+        },
+        "2006": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "37,000",
+            "Percent That Are Obese": "30.6"
+        },
+        "2005": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "24.2"
+        },
+        "2004": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "29"
+        },
+        "2003": {
+            "Geography": "Williamsburg - Bushwick",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "27.6"
+        }
+    },
+    "Washington Heights": {
+        "2020": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "58,000",
+            "Percent That Are Obese": "29.5"
+        },
+        "2019": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "50,000",
+            "Percent That Are Obese": "25.3"
+        },
+        "2018": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "60,000",
+            "Percent That Are Obese": "29.2"
+        },
+        "2017": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "57,000",
+            "Percent That Are Obese": "29"
+        },
+        "2016": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "55,000",
+            "Percent That Are Obese": "27.9"
+        },
+        "2015": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2014": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "23.3"
+        },
+        "2013": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "24"
+        },
+        "2012": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "21.8"
+        },
+        "2011": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "20.1"
+        },
+        "2010": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "14.6"
+        },
+        "2009": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "26.6"
+        },
+        "2008": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "57,000",
+            "Percent That Are Obese": "29.5"
+        },
+        "2007": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "20.3"
+        },
+        "2006": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "20.6"
+        },
+        "2005": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "19.5"
+        },
+        "2004": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "22.4"
+        },
+        "2003": {
+            "Geography": "Washington Heights",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "21.4"
+        }
+    },
+    "Central Harlem - Morningside Heights": {
+        "2020": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "30"
+        },
+        "2019": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "36.9"
+        },
+        "2018": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "36.6"
+        },
+        "2017": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "24.8"
+        },
+        "2016": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "29.4"
+        },
+        "2015": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "37,000",
+            "Percent That Are Obese": "31.3"
+        },
+        "2014": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "34.3"
+        },
+        "2013": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "26.2"
+        },
+        "2012": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "30.8"
+        },
+        "2011": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "24.4"
+        },
+        "2010": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "22.2"
+        },
+        "2009": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "36.1"
+        },
+        "2008": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "26.8"
+        },
+        "2007": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "27.1"
+        },
+        "2006": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "23.7"
+        },
+        "2005": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "27.4"
+        },
+        "2004": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "26"
+        },
+        "2003": {
+            "Geography": "Central Harlem - Morningside Heights",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "27.6"
+        }
+    },
+    "East Harlem": {
+        "2020": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "30.1"
+        },
+        "2019": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "34.1"
+        },
+        "2018": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "26.9"
+        },
+        "2017": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "28.6"
+        },
+        "2016": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "25.2"
+        },
+        "2015": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "26.2"
+        },
+        "2014": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "34.9"
+        },
+        "2013": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "37.8"
+        },
+        "2012": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2011": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "29.2"
+        },
+        "2010": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "30.9"
+        },
+        "2009": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "15,000",
+            "Percent That Are Obese": "19.7"
+        },
+        "2008": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "34.5"
+        },
+        "2007": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "33.5"
+        },
+        "2006": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "15,000",
+            "Percent That Are Obese": "20.9"
+        },
+        "2005": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "31.6"
+        },
+        "2004": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "29.4"
+        },
+        "2003": {
+            "Geography": "East Harlem",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "33.3"
+        }
+    },
+    "Upper West Side": {
+        "2020": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "17.7"
+        },
+        "2019": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "17"
+        },
+        "2018": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "17"
+        },
+        "2017": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "13.4"
+        },
+        "2016": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "11.1"
+        },
+        "2015": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "14,000",
+            "Percent That Are Obese": "7.8"
+        },
+        "2014": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "14.5"
+        },
+        "2013": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "11.6"
+        },
+        "2012": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "18.3"
+        },
+        "2011": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "14,000",
+            "Percent That Are Obese": "8.1"
+        },
+        "2010": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "20.6"
+        },
+        "2009": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "9.5"
+        },
+        "2008": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "8.3"
+        },
+        "2007": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "15.6"
+        },
+        "2006": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "13.4"
+        },
+        "2005": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "13,000",
+            "Percent That Are Obese": "7.2"
+        },
+        "2004": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "17,000",
+            "Percent That Are Obese": "9.4"
+        },
+        "2003": {
+            "Geography": "Upper West Side",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "12.5"
+        }
+    },
+    "Long Island City - Astoria": {
+        "2020": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "19.2"
+        },
+        "2019": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "18.4"
+        },
+        "2018": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "37,000",
+            "Percent That Are Obese": "20.8"
+        },
+        "2017": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "24"
+        },
+        "2016": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "19.8"
+        },
+        "2015": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "23.2"
+        },
+        "2014": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "26.7"
+        },
+        "2013": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "15.1"
+        },
+        "2012": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "23.8"
+        },
+        "2011": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "30.5"
+        },
+        "2010": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "21.8"
+        },
+        "2009": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "16.9"
+        },
+        "2008": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "20.4"
+        },
+        "2007": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "34,000",
+            "Percent That Are Obese": "20.7"
+        },
+        "2006": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "24.1"
+        },
+        "2005": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "19.5"
+        },
+        "2004": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "18.6"
+        },
+        "2003": {
+            "Geography": "Long Island City - Astoria",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "16.4"
+        }
+    },
+    "West Queens": {
+        "2020": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "98,000",
+            "Percent That Are Obese": "27"
+        },
+        "2019": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "79,000",
+            "Percent That Are Obese": "22.2"
+        },
+        "2018": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "94,000",
+            "Percent That Are Obese": "25.5"
+        },
+        "2017": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "74,000",
+            "Percent That Are Obese": "19.7"
+        },
+        "2016": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "65,000",
+            "Percent That Are Obese": "17.2"
+        },
+        "2015": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "82,000",
+            "Percent That Are Obese": "22"
+        },
+        "2014": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "83,000",
+            "Percent That Are Obese": "23.4"
+        },
+        "2013": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "78,000",
+            "Percent That Are Obese": "22.6"
+        },
+        "2012": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "81,000",
+            "Percent That Are Obese": "23.6"
+        },
+        "2011": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "72,000",
+            "Percent That Are Obese": "21.2"
+        },
+        "2010": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "81,000",
+            "Percent That Are Obese": "22.8"
+        },
+        "2009": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "64,000",
+            "Percent That Are Obese": "18"
+        },
+        "2008": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "60,000",
+            "Percent That Are Obese": "16.5"
+        },
+        "2007": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "62,000",
+            "Percent That Are Obese": "17.7"
+        },
+        "2006": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "14.7"
+        },
+        "2005": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "13.5"
+        },
+        "2004": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "74,000",
+            "Percent That Are Obese": "21.5"
+        },
+        "2003": {
+            "Geography": "West Queens",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "16"
+        }
+    },
+    "Flushing - Clearview": {
+        "2020": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "15.1"
+        },
+        "2019": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "8.9"
+        },
+        "2018": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "18.2"
+        },
+        "2017": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "17.9"
+        },
+        "2016": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "10.2"
+        },
+        "2015": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "17.7"
+        },
+        "2014": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "15"
+        },
+        "2013": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "11.5"
+        },
+        "2012": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "17.6"
+        },
+        "2011": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "20.4"
+        },
+        "2010": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "17.6"
+        },
+        "2009": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "18.2"
+        },
+        "2008": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "20.3"
+        },
+        "2007": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "12.2"
+        },
+        "2006": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "14.9"
+        },
+        "2005": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "14.6"
+        },
+        "2004": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "16.8"
+        },
+        "2003": {
+            "Geography": "Flushing - Clearview",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "14.9"
+        }
+    },
+    "Ridgewood - Forest Hills": {
+        "2020": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "20.7"
+        },
+        "2019": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "54,000",
+            "Percent That Are Obese": "27"
+        },
+        "2018": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "23"
+        },
+        "2017": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "22.7"
+        },
+        "2016": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "25.5"
+        },
+        "2015": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "18.1"
+        },
+        "2014": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "19"
+        },
+        "2013": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "14.1"
+        },
+        "2012": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "17"
+        },
+        "2011": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "18.1"
+        },
+        "2010": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "14"
+        },
+        "2009": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "23.5"
+        },
+        "2008": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "37,000",
+            "Percent That Are Obese": "19.5"
+        },
+        "2007": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "22.9"
+        },
+        "2006": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "15.1"
+        },
+        "2005": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "13.6"
+        },
+        "2004": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "38,000",
+            "Percent That Are Obese": "21.2"
+        },
+        "2003": {
+            "Geography": "Ridgewood - Forest Hills",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "15.4"
+        }
+    },
+    "Southwest Queens": {
+        "2020": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "65,000",
+            "Percent That Are Obese": "32.5"
+        },
+        "2019": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "57,000",
+            "Percent That Are Obese": "27.7"
+        },
+        "2018": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "54,000",
+            "Percent That Are Obese": "25.4"
+        },
+        "2017": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "64,000",
+            "Percent That Are Obese": "30.6"
+        },
+        "2016": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "22.9"
+        },
+        "2015": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "61,000",
+            "Percent That Are Obese": "29.3"
+        },
+        "2014": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "63,000",
+            "Percent That Are Obese": "30.7"
+        },
+        "2013": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "23.4"
+        },
+        "2012": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "25.5"
+        },
+        "2011": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "57,000",
+            "Percent That Are Obese": "29"
+        },
+        "2010": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "20.4"
+        },
+        "2009": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "21.8"
+        },
+        "2008": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "21.9"
+        },
+        "2007": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "16"
+        },
+        "2006": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "25.1"
+        },
+        "2005": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "16.2"
+        },
+        "2004": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "15.5"
+        },
+        "2003": {
+            "Geography": "Southwest Queens",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "22.9"
+        }
+    },
+    "Jamaica": {
+        "2020": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "44,000",
+            "Percent That Are Obese": "20.9"
+        },
+        "2019": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "56,000",
+            "Percent That Are Obese": "26.8"
+        },
+        "2018": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "59,000",
+            "Percent That Are Obese": "26.9"
+        },
+        "2017": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "75,000",
+            "Percent That Are Obese": "33.5"
+        },
+        "2016": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "59,000",
+            "Percent That Are Obese": "26.7"
+        },
+        "2015": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "67,000",
+            "Percent That Are Obese": "30.1"
+        },
+        "2014": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "66,000",
+            "Percent That Are Obese": "30.2"
+        },
+        "2013": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "23.6"
+        },
+        "2012": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "56,000",
+            "Percent That Are Obese": "26.7"
+        },
+        "2011": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "23.9"
+        },
+        "2010": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "55,000",
+            "Percent That Are Obese": "27.1"
+        },
+        "2009": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "61,000",
+            "Percent That Are Obese": "29.9"
+        },
+        "2008": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "54,000",
+            "Percent That Are Obese": "26.1"
+        },
+        "2007": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "54,000",
+            "Percent That Are Obese": "27.1"
+        },
+        "2006": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "24.3"
+        },
+        "2005": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "26"
+        },
+        "2004": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "52,000",
+            "Percent That Are Obese": "26"
+        },
+        "2003": {
+            "Geography": "Jamaica",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "22.3"
+        }
+    },
+    "Southeast Queens": {
+        "2020": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "64,000",
+            "Percent That Are Obese": "43.4"
+        },
+        "2019": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "50,000",
+            "Percent That Are Obese": "33.1"
+        },
+        "2018": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "32.8"
+        },
+        "2017": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "17.1"
+        },
+        "2016": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "29.5"
+        },
+        "2015": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "25.7"
+        },
+        "2014": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "20"
+        },
+        "2013": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "22.7"
+        },
+        "2012": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2011": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "21.3"
+        },
+        "2010": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "31"
+        },
+        "2009": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "50,000",
+            "Percent That Are Obese": "33.2"
+        },
+        "2008": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "23.3"
+        },
+        "2007": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "18.4"
+        },
+        "2006": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "23"
+        },
+        "2005": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "21.9"
+        },
+        "2004": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "25.1"
+        },
+        "2003": {
+            "Geography": "Southeast Queens",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "24"
+        }
+    },
+    "Rockaways": {
+        "2020": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "34.6"
+        },
+        "2019": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "31.2"
+        },
+        "2018": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "36.4"
+        },
+        "2017": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "33.7"
+        },
+        "2016": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "27.1"
+        },
+        "2015": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "34.2"
+        },
+        "2014": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "26"
+        },
+        "2013": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "27.7"
+        },
+        "2012": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "35.2"
+        },
+        "2011": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "23.5"
+        },
+        "2010": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "17,000",
+            "Percent That Are Obese": "23.6"
+        },
+        "2009": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "29.5"
+        },
+        "2008": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "29.8"
+        },
+        "2007": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "38.7"
+        },
+        "2006": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "17,000",
+            "Percent That Are Obese": "23.4"
+        },
+        "2005": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "23.3"
+        },
+        "2004": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "26.2"
+        },
+        "2003": {
+            "Geography": "Rockaways",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "27.3"
+        }
+    },
+    "Upper East Side-Gramercy": {
+        "2020": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "9"
+        },
+        "2019": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "9.3"
+        },
+        "2018": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "8.8"
+        },
+        "2017": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "12.9"
+        },
+        "2016": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "34,000",
+            "Percent That Are Obese": "10.9"
+        },
+        "2015": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "12.9"
+        },
+        "2014": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "11.8"
+        },
+        "2013": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "9.8"
+        },
+        "2012": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "8.9"
+        },
+        "2011": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "36,000",
+            "Percent That Are Obese": "12"
+        },
+        "2010": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "7.6"
+        },
+        "2009": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "11.4"
+        },
+        "2008": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "10.7"
+        },
+        "2007": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "8"
+        },
+        "2006": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "9.4"
+        },
+        "2005": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "7.4"
+        },
+        "2004": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "8.9"
+        },
+        "2003": {
+            "Geography": "Upper East Side-Gramercy",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "8.4"
+        }
+    },
+    "Chelsea-Village": {
+        "2020": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "9.7"
+        },
+        "2019": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "11.9"
+        },
+        "2018": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "12.9"
+        },
+        "2017": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "9"
+        },
+        "2016": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "14,000",
+            "Percent That Are Obese": "6.7"
+        },
+        "2015": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "17,000",
+            "Percent That Are Obese": "8.8"
+        },
+        "2014": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "11.7"
+        },
+        "2013": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "20,000",
+            "Percent That Are Obese": "10.6"
+        },
+        "2012": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "15,000",
+            "Percent That Are Obese": "7.6"
+        },
+        "2011": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "9.7"
+        },
+        "2010": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "13,000",
+            "Percent That Are Obese": "7"
+        },
+        "2009": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "14,000",
+            "Percent That Are Obese": "7.5"
+        },
+        "2008": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "10.4"
+        },
+        "2007": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "13,000",
+            "Percent That Are Obese": "7.1"
+        },
+        "2006": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "9.1"
+        },
+        "2005": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "12,000",
+            "Percent That Are Obese": "6.8"
+        },
+        "2004": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "9.9"
+        },
+        "2003": {
+            "Geography": "Chelsea-Village",
+            "GeoType": "Area",
+            "Number": "17,000",
+            "Percent That Are Obese": "9.9"
+        }
+    },
+    "Union Square-Lower Manhattan": {
+        "2020": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "14.4"
+        },
+        "2019": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "10.2"
+        },
+        "2018": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "14.3"
+        },
+        "2017": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "15.2"
+        },
+        "2016": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "10.5"
+        },
+        "2015": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "7.5"
+        },
+        "2014": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "13"
+        },
+        "2013": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "13.2"
+        },
+        "2012": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "16,000",
+            "Percent That Are Obese": "7.9"
+        },
+        "2011": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "11.1"
+        },
+        "2010": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "16.2"
+        },
+        "2009": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "30,000",
+            "Percent That Are Obese": "15.7"
+        },
+        "2008": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "10.7"
+        },
+        "2007": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "10.2"
+        },
+        "2006": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "24,000",
+            "Percent That Are Obese": "13.3"
+        },
+        "2005": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "22,000",
+            "Percent That Are Obese": "11.9"
+        },
+        "2004": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "16.9"
+        },
+        "2003": {
+            "Geography": "Union Square-Lower Manhattan",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "13.9"
+        }
+    },
+    "Bayside Little Neck-Fresh Meadows": {
+        "2020": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "20.4"
+        },
+        "2019": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "19.2"
+        },
+        "2018": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "22.2"
+        },
+        "2017": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "34,000",
+            "Percent That Are Obese": "22.7"
+        },
+        "2016": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "22.2"
+        },
+        "2015": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "19.3"
+        },
+        "2014": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "27.1"
+        },
+        "2013": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "13.5"
+        },
+        "2012": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "14.2"
+        },
+        "2011": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "25,000",
+            "Percent That Are Obese": "17.4"
+        },
+        "2010": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "21,000",
+            "Percent That Are Obese": "15"
+        },
+        "2009": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "26,000",
+            "Percent That Are Obese": "18.7"
+        },
+        "2008": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "19.4"
+        },
+        "2007": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "20.6"
+        },
+        "2006": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "21.5"
+        },
+        "2005": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "19,000",
+            "Percent That Are Obese": "13.9"
+        },
+        "2004": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "23,000",
+            "Percent That Are Obese": "17.4"
+        },
+        "2003": {
+            "Geography": "Bayside Little Neck-Fresh Meadows",
+            "GeoType": "Area",
+            "Number": "18,000",
+            "Percent That Are Obese": "13.4"
+        }
+    },
+    "Northern SI": {
+        "2020": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "47,000",
+            "Percent That Are Obese": "32.3"
+        },
+        "2019": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "37,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2018": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "55,000",
+            "Percent That Are Obese": "38.8"
+        },
+        "2017": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "30.2"
+        },
+        "2016": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "31,000",
+            "Percent That Are Obese": "22.1"
+        },
+        "2015": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "23.6"
+        },
+        "2014": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "28.9"
+        },
+        "2013": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "29.5"
+        },
+        "2012": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "34.7"
+        },
+        "2011": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "45,000",
+            "Percent That Are Obese": "33.3"
+        },
+        "2010": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "42,000",
+            "Percent That Are Obese": "32.7"
+        },
+        "2009": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "29,000",
+            "Percent That Are Obese": "23.8"
+        },
+        "2008": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "43,000",
+            "Percent That Are Obese": "33.4"
+        },
+        "2007": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "40,000",
+            "Percent That Are Obese": "31.3"
+        },
+        "2006": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "33,000",
+            "Percent That Are Obese": "26.8"
+        },
+        "2005": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "32,000",
+            "Percent That Are Obese": "26.3"
+        },
+        "2004": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "34,000",
+            "Percent That Are Obese": "27.6"
+        },
+        "2003": {
+            "Geography": "Northern SI",
+            "GeoType": "Area",
+            "Number": "27,000",
+            "Percent That Are Obese": "22.9"
+        }
+    },
+    "Southern SI": {
+        "2020": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "73,000",
+            "Percent That Are Obese": "33.9"
+        },
+        "2019": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "68,000",
+            "Percent That Are Obese": "32.1"
+        },
+        "2018": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "75,000",
+            "Percent That Are Obese": "35.7"
+        },
+        "2017": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "51,000",
+            "Percent That Are Obese": "23.4"
+        },
+        "2016": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "62,000",
+            "Percent That Are Obese": "29.3"
+        },
+        "2015": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "56,000",
+            "Percent That Are Obese": "26.2"
+        },
+        "2014": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "66,000",
+            "Percent That Are Obese": "31"
+        },
+        "2013": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "63,000",
+            "Percent That Are Obese": "30"
+        },
+        "2012": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "67,000",
+            "Percent That Are Obese": "31.5"
+        },
+        "2011": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "50,000",
+            "Percent That Are Obese": "24.7"
+        },
+        "2010": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "48,000",
+            "Percent That Are Obese": "25.4"
+        },
+        "2009": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "23.7"
+        },
+        "2008": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "46,000",
+            "Percent That Are Obese": "23.2"
+        },
+        "2007": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "41,000",
+            "Percent That Are Obese": "21"
+        },
+        "2006": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "39,000",
+            "Percent That Are Obese": "20.1"
+        },
+        "2005": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "35,000",
+            "Percent That Are Obese": "18.8"
+        },
+        "2004": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "49,000",
+            "Percent That Are Obese": "25.6"
+        },
+        "2003": {
+            "Geography": "Southern SI",
+            "GeoType": "Area",
+            "Number": "28,000",
+            "Percent That Are Obese": "16.2"
+        }
+    },
+    "South Bronx": {
+        "2020": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "143,000",
+            "Percent That Are Obese": "37.3"
+        },
+        "2019": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "128,000",
+            "Percent That Are Obese": "33"
+        },
+        "2018": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "126,000",
+            "Percent That Are Obese": "31.1"
+        },
+        "2017": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "153,000",
+            "Percent That Are Obese": "39.1"
+        },
+        "2016": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "151,000",
+            "Percent That Are Obese": "38.6"
+        },
+        "2015": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "132,000",
+            "Percent That Are Obese": "33.9"
+        },
+        "2014": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "115,000",
+            "Percent That Are Obese": "30.5"
+        },
+        "2013": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "126,000",
+            "Percent That Are Obese": "34.1"
+        },
+        "2012": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "108,000",
+            "Percent That Are Obese": "30.1"
+        },
+        "2011": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "116,000",
+            "Percent That Are Obese": "32.9"
+        },
+        "2010": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "100,000",
+            "Percent That Are Obese": "31.1"
+        },
+        "2009": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "101,000",
+            "Percent That Are Obese": "31.2"
+        },
+        "2008": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "110,000",
+            "Percent That Are Obese": "33.8"
+        },
+        "2007": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "106,000",
+            "Percent That Are Obese": "33.2"
+        },
+        "2006": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "82,000",
+            "Percent That Are Obese": "26.2"
+        },
+        "2005": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "94,000",
+            "Percent That Are Obese": "29.8"
+        },
+        "2004": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "80,000",
+            "Percent That Are Obese": "24.9"
+        },
+        "2003": {
+            "Geography": "South Bronx",
+            "GeoType": "Area",
+            "Number": "77,000",
+            "Percent That Are Obese": "26.2"
+        }
+    },
+    "Bronx": {
+        "2020": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "332,000",
+            "Percent That Are Obese": "32.9"
+        },
+        "2019": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "343,000",
+            "Percent That Are Obese": "33.5"
+        },
+        "2018": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "336,000",
+            "Percent That Are Obese": "31.8"
+        },
+        "2017": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "357,000",
+            "Percent That Are Obese": "34.4"
+        },
+        "2016": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "348,000",
+            "Percent That Are Obese": "33.5"
+        },
+        "2015": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "319,000",
+            "Percent That Are Obese": "31.1"
+        },
+        "2014": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "303,000",
+            "Percent That Are Obese": "30.2"
+        },
+        "2013": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "308,000",
+            "Percent That Are Obese": "31"
+        },
+        "2012": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "311,000",
+            "Percent That Are Obese": "31.8"
+        },
+        "2011": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "286,000",
+            "Percent That Are Obese": "30.2"
+        },
+        "2010": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "281,000",
+            "Percent That Are Obese": "30.7"
+        },
+        "2009": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "267,000",
+            "Percent That Are Obese": "29.3"
+        },
+        "2008": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "264,000",
+            "Percent That Are Obese": "28.9"
+        },
+        "2007": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "273,000",
+            "Percent That Are Obese": "30.4"
+        },
+        "2006": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "225,000",
+            "Percent That Are Obese": "25.3"
+        },
+        "2005": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "224,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2004": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "230,000",
+            "Percent That Are Obese": "25.9"
+        },
+        "2003": {
+            "Geography": "Bronx",
+            "GeoType": "Borough",
+            "Number": "193,000",
+            "Percent That Are Obese": "23.3"
+        }
+    },
+    "Brooklyn": {
+        "2020": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "479,000",
+            "Percent That Are Obese": "25.3"
+        },
+        "2019": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "490,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2018": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "527,000",
+            "Percent That Are Obese": "26.9"
+        },
+        "2017": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "514,000",
+            "Percent That Are Obese": "26.4"
+        },
+        "2016": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "498,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2015": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "520,000",
+            "Percent That Are Obese": "26.7"
+        },
+        "2014": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "505,000",
+            "Percent That Are Obese": "26.3"
+        },
+        "2013": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "510,000",
+            "Percent That Are Obese": "27"
+        },
+        "2012": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "500,000",
+            "Percent That Are Obese": "26.8"
+        },
+        "2011": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "501,000",
+            "Percent That Are Obese": "27.1"
+        },
+        "2010": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "465,000",
+            "Percent That Are Obese": "26.5"
+        },
+        "2009": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "453,000",
+            "Percent That Are Obese": "25.6"
+        },
+        "2008": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "438,000",
+            "Percent That Are Obese": "24.7"
+        },
+        "2007": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "414,000",
+            "Percent That Are Obese": "24"
+        },
+        "2006": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "408,000",
+            "Percent That Are Obese": "24.1"
+        },
+        "2005": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "390,000",
+            "Percent That Are Obese": "23.3"
+        },
+        "2004": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "397,000",
+            "Percent That Are Obese": "23.3"
+        },
+        "2003": {
+            "Geography": "Brooklyn",
+            "GeoType": "Borough",
+            "Number": "376,000",
+            "Percent That Are Obese": "23.3"
+        }
+    },
+    "Manhattan": {
+        "2020": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "227,000",
+            "Percent That Are Obese": "17.5"
+        },
+        "2019": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "227,000",
+            "Percent That Are Obese": "17.4"
+        },
+        "2018": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "242,000",
+            "Percent That Are Obese": "18.3"
+        },
+        "2017": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "226,000",
+            "Percent That Are Obese": "17.3"
+        },
+        "2016": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "201,000",
+            "Percent That Are Obese": "15.4"
+        },
+        "2015": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "201,000",
+            "Percent That Are Obese": "15.5"
+        },
+        "2014": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "227,000",
+            "Percent That Are Obese": "17.5"
+        },
+        "2013": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "212,000",
+            "Percent That Are Obese": "16.4"
+        },
+        "2012": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "185,000",
+            "Percent That Are Obese": "14.5"
+        },
+        "2011": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "178,000",
+            "Percent That Are Obese": "14"
+        },
+        "2010": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "179,000",
+            "Percent That Are Obese": "14.3"
+        },
+        "2009": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "202,000",
+            "Percent That Are Obese": "16.1"
+        },
+        "2008": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "200,000",
+            "Percent That Are Obese": "16"
+        },
+        "2007": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "177,000",
+            "Percent That Are Obese": "14.6"
+        },
+        "2006": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "170,000",
+            "Percent That Are Obese": "14.2"
+        },
+        "2005": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "157,000",
+            "Percent That Are Obese": "13"
+        },
+        "2004": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "186,000",
+            "Percent That Are Obese": "15.2"
+        },
+        "2003": {
+            "Geography": "Manhattan",
+            "GeoType": "Borough",
+            "Number": "180,000",
+            "Percent That Are Obese": "15.3"
+        }
+    },
+    "Queens": {
+        "2020": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "435,000",
+            "Percent That Are Obese": "25.5"
+        },
+        "2019": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "408,000",
+            "Percent That Are Obese": "23.4"
+        },
+        "2018": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "447,000",
+            "Percent That Are Obese": "24.5"
+        },
+        "2017": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "426,000",
+            "Percent That Are Obese": "23.9"
+        },
+        "2016": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "382,000",
+            "Percent That Are Obese": "21.3"
+        },
+        "2015": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "421,000",
+            "Percent That Are Obese": "23.6"
+        },
+        "2014": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "424,000",
+            "Percent That Are Obese": "24.1"
+        },
+        "2013": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "338,000",
+            "Percent That Are Obese": "19.3"
+        },
+        "2012": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "387,000",
+            "Percent That Are Obese": "22.3"
+        },
+        "2011": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "395,000",
+            "Percent That Are Obese": "23"
+        },
+        "2010": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "363,000",
+            "Percent That Are Obese": "21.3"
+        },
+        "2009": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "382,000",
+            "Percent That Are Obese": "22.6"
+        },
+        "2008": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "356,000",
+            "Percent That Are Obese": "20.9"
+        },
+        "2007": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "330,000",
+            "Percent That Are Obese": "20.1"
+        },
+        "2006": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "319,000",
+            "Percent That Are Obese": "19.8"
+        },
+        "2005": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "280,000",
+            "Percent That Are Obese": "17.3"
+        },
+        "2004": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "337,000",
+            "Percent That Are Obese": "20.7"
+        },
+        "2003": {
+            "Geography": "Queens",
+            "GeoType": "Borough",
+            "Number": "288,000",
+            "Percent That Are Obese": "18.4"
+        }
+    },
+    "Staten Island": {
+        "2020": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "118,000",
+            "Percent That Are Obese": "33"
+        },
+        "2019": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "106,000",
+            "Percent That Are Obese": "29.3"
+        },
+        "2018": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "130,000",
+            "Percent That Are Obese": "35.9"
+        },
+        "2017": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "94,000",
+            "Percent That Are Obese": "26"
+        },
+        "2016": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "94,000",
+            "Percent That Are Obese": "26.4"
+        },
+        "2015": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "90,000",
+            "Percent That Are Obese": "25.1"
+        },
+        "2014": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "107,000",
+            "Percent That Are Obese": "30.2"
+        },
+        "2013": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "105,000",
+            "Percent That Are Obese": "30"
+        },
+        "2012": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "115,000",
+            "Percent That Are Obese": "32.6"
+        },
+        "2011": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "99,000",
+            "Percent That Are Obese": "28.4"
+        },
+        "2010": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "90,000",
+            "Percent That Are Obese": "28.3"
+        },
+        "2009": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "75,000",
+            "Percent That Are Obese": "23.1"
+        },
+        "2008": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "89,000",
+            "Percent That Are Obese": "27.2"
+        },
+        "2007": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "80,000",
+            "Percent That Are Obese": "25.1"
+        },
+        "2006": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "71,000",
+            "Percent That Are Obese": "22.7"
+        },
+        "2005": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "68,000",
+            "Percent That Are Obese": "21.8"
+        },
+        "2004": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "83,000",
+            "Percent That Are Obese": "26.4"
+        },
+        "2003": {
+            "Geography": "Staten Island",
+            "GeoType": "Borough",
+            "Number": "55,000",
+            "Percent That Are Obese": "18.9"
+        }
+    },
+    "New York City": {
+        "2020": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,592,000",
+            "Percent That Are Obese": "25.4"
+        },
+        "2019": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,574,000",
+            "Percent That Are Obese": "24.9"
+        },
+        "2018": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,682,000",
+            "Percent That Are Obese": "25.8"
+        },
+        "2017": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,617,000",
+            "Percent That Are Obese": "25.1"
+        },
+        "2016": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,523,000",
+            "Percent That Are Obese": "23.7"
+        },
+        "2015": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,551,000",
+            "Percent That Are Obese": "24.2"
+        },
+        "2014": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,567,000",
+            "Percent That Are Obese": "24.7"
+        },
+        "2013": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,470,000",
+            "Percent That Are Obese": "23.5"
+        },
+        "2012": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,498,000",
+            "Percent That Are Obese": "24.1"
+        },
+        "2011": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,460,000",
+            "Percent That Are Obese": "23.8"
+        },
+        "2010": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,379,000",
+            "Percent That Are Obese": "23.2"
+        },
+        "2009": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,378,000",
+            "Percent That Are Obese": "23.2"
+        },
+        "2008": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,346,000",
+            "Percent That Are Obese": "22.6"
+        },
+        "2007": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,275,000",
+            "Percent That Are Obese": "22"
+        },
+        "2006": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,194,000",
+            "Percent That Are Obese": "20.9"
+        },
+        "2005": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,118,000",
+            "Percent That Are Obese": "19.7"
+        },
+        "2004": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,233,000",
+            "Percent That Are Obese": "21.4"
+        },
+        "2003": {
+            "Geography": "New York City",
+            "GeoType": "Citywide",
+            "Number": "1,093,000",
+            "Percent That Are Obese": "20"
+        }
+    }
+}

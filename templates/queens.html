@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Queens</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #ffe4e4; /* This is a shade of grey */
+        }
+    </style>
+
+    
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid" style="text-align: left;">
+              <!-- <a class="navbar-brand" href="#">Queens Obesity Data</a> -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/index">Obesity in NYC</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/about">About</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Borough Details
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/manhattan">Manhattan</a></li>
+                                <li><a class="dropdown-item" href="/queens">Queens</a></li>
+                                <li><a class="dropdown-item" href="/bronx">Bronx</a></li>
+                                <li><a class="dropdown-item" href="/brooklyn">Brooklyn</a></li>
+                                <li><a class="dropdown-item" href="/si">Staten Island</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <center><h1  class="mt-3">Obesity in Queens Over the Past 18 Years</h1></center>
+    </header>
+
+    <main>
+        <center><section>
+            
+            <div id="NYC" class="my-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+                    <!-- X-axis -->
+                    <line x1="100" y1="450" x2="900" y2="450" stroke="black" stroke-width="2"/>
+                    <!-- Y-axis -->
+                    <line x1="100" y1="50" x2="100" y2="450" stroke="black" stroke-width="2"/>
+                  
+                    <!-- Enhanced X-axis labels (Years) -->
+                    <text x="100" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2003</text>
+                    <text x="180" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2005</text>
+                    <text x="260" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2007</text>
+                    <text x="340" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2009</text>
+                    <text x="420" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2011</text>
+                    <text x="500" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2013</text>
+                    <text x="580" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2015</text>
+                    <text x="660" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2017</text>
+                    <text x="740" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2019</text>
+                    <text x="820" y="470" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="black">2020</text>
+                  
+                    <!-- Enhanced Y-axis labels (Percentage) -->
+                    <text x="90" y="450" font-family="Arial, sans-serif" font-size="15" text-anchor="end" fill="black">0%</text>
+                    <text x="90" y="360" font-family="Arial, sans-serif" font-size="15" text-anchor="end" fill="black">10%</text>
+                    <text x="90" y="270" font-family="Arial, sans-serif" font-size="15" text-anchor="end" fill="black">20%</text>
+                    <text x="90" y="180" font-family="Arial, sans-serif" font-size="15" text-anchor="end" fill="black">30%</text>
+                    <text x="90" y="90" font-family="Arial, sans-serif" font-size="15" text-anchor="end" fill="black">40%</text>
+                  
+                    <!-- Axis Titles -->
+                    <text x="500" y="490" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="black">Year</text>
+                    <text x="50" y="250" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="black" transform="rotate(-90, 50, 250)">Percentage</text>
+                  
+                    <!-- Borough lines and centered labels -->
+                    <polyline points="{{BronxP}}" fill="none" stroke-width="2" stroke="green"/>
+                    <text class="label" x="900" y="100" font-family="Arial, sans-serif" font-size="17px" text-anchor="middle" fill="green">Bronx</text>
+                  
+                    <polyline points="{{ManhattanP}}" fill="none" stroke-width="2" stroke="red"/>
+                    <text class="label" x="900" y="120" font-family="Arial, sans-serif" font-size="17px" text-anchor="middle" fill="red">Manhattan</text>
+                  
+                    <polyline points="{{QueensP}}" fill="none" stroke-width="5" stroke="purple"/>
+                    <text class="label" x="900" y="140" font-family="Arial, sans-serif" font-size="17px" text-anchor="middle" fill="purple" font-weight="bold" >Queens</text>
+                  
+                    <polyline points="{{BrooklynP}}" fill="none" stroke-width="2" stroke="blue"/>
+                    <text class="label" x="900" y="160" font-family="Arial, sans-serif" font-size="17px" text-anchor="middle" fill="blue">Brooklyn</text>
+                  
+                    <polyline points="{{StatenP}}" fill="none" stroke-width="2" stroke="gold"/>
+                    <text class="label" x="900" y="180" font-family="Arial, sans-serif" font-size="17px" text-anchor="middle" fill="gold">Staten Island</text>
+                  
+                    <!-- Enhanced Explanation text -->
+                    <text x="500" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="black">Obesity Trends in Queens (2003 - 2020)</text>
+                  </svg>
+            </div>
+        </section></center>
+
+        <center><section>
+            <h3>Numerical Representation of Obesity Within Queens from 2003-2020</h3>
+            <table style="width:calc(100% - 100px); margin: 0 auto; border: 1px solid black;">
+                <tr>
+                    <th>Years</th>
+                    <th>2003</th>
+                    <th>2004</th>
+                    <th>2005</th>
+                    <th>2006</th>
+                    <th>2007</th>
+                    <th>2008</th>
+                    <th>2009</th>
+                    <th>2010</th>
+                    <th>2011</th>
+                    <th>2012</th>
+                    <th>2013</th>
+                    <th>2014</th>
+                    <th>2015</th>
+                    <th>2016</th>
+                    <th>2017</th>
+                    <th>2018</th>
+                    <th>2019</th>
+                    <th>2020</th>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">Percent of Obesity</td>
+                    <td>18.4</td>
+                    <td>20.7</td>
+                    <td>17.3</td>
+                    <td>19.8</td>
+                    <td>20.1</td>
+                    <td>20.9</td>
+                    <td>22.6</td>
+                    <td>21.3</td>
+                    <td>23</td>
+                    <td>22.3</td>
+                    <td>19.3</td>
+                    <td>24.1</td>
+                    <td>23.6</td>
+                    <td>21.3</td>
+                    <td>23.9</td>
+                    <td>24.5</td>
+                    <td>23.4</td>
+                    <td>25.5</td>
+                </tr>
+            </table>
+        </section></center>
+
+        <center><section>
+            <h2>Summary</h2>
+            <p class="mx-auto" style="max-width: 1000px;">{{ formatted_texts.Queens }}</p>
+        </section></center>
+    </main>
+
+
+    <footer>
+        <p style="font-size: 9px;"> footer </p>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>
